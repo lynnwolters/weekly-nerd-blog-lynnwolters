@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: calc(100dvh - 3em);
+
+    overflow-x: hidden;
+    
+    margin: 1.5em;
+    
+    background-color: var(--dark-blue);
+}
+
+li {
+    list-style: none;
+}

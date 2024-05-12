@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "MoglanDemo";
+    src: url(./fonts/MoglanDemo.woff);
+}
+
+h1, h2, h3, h4, h5, h6, p, a, button {
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2 {
+    font-family: "MoglanDemo";
+    font-synthesis: none;
+}
+
+h3, h4, h5, h6, p, a, button {
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+}
+
+.text-xl {
+    font-size: 10em;
+}
+
+.text-white {
+    color: var(--white);
+}
+
+.text-light-dark-blue {
+    color: var(--light-dark-blue);
+}

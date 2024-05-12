@@ -1,0 +1,64 @@
+.nav-index, .footer-index {
+    height: 6%;
+
+    & ul {
+        height: 100%;
+
+        display: flex;
+        justify-content: space-between;
+
+        & div {
+            display: flex;
+            align-items: center;
+
+            & li:not(:last-of-type) {
+                margin-right: 1.5em;
+            }
+        }
+    }
+}
+
+.header-index {
+    height: 100dvh;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    white-space: nowrap;
+
+    display: flex;
+    align-items: center;
+    
+    pointer-events: none;
+    
+    & > div {
+        display: inline-block;
+
+        & h1 {
+            animation: marqueeAnimation linear 60s infinite;
+        }
+    }
+}
+
+.main-index {
+    height: 88%;
+}
+
+.footer-index {
+    & ul {
+        & > li {
+            display: flex;
+            align-items: end;
+        }
+    }
+}
+
+@keyframes marqueeAnimation {
+    0% {
+        transform: translateX(0);
+    }
+    
+    100% {
+        transform: translateX(-100%);
+    }
+}
