@@ -1,10 +1,12 @@
 /* GENERAL CSS */
-@import "./css/general-css/reset.css"; 
+@import "./css/general-css/reset.css";
 @import "./css/general-css/root.css"; 
 @import "./css/general-css/typography.css"; 
+@import "./css/general-css/swup.css"; 
 
 /* COMPONENTS CSS */
 @import "./css/components-css/button.css"; 
 
 /* VIEWS CSS */
 @import "./css/views-css/index.css"; 
+@import "./css/views-css/detail.css"; 

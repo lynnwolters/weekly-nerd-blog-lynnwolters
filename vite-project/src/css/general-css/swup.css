@@ -1,0 +1,32 @@
+#swup {
+    height: 88%;
+}
+
+.transition-overlay {
+    position: fixed;
+    transform: translate3d(0, calc(-1 * 100% * var(--overlay-direction, 1)), 0);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1001;
+
+    background-color: var(--color-2);
+    opacity: 0;
+
+    pointer-events: none;
+}
+
+html.is-changing .transition-overlay {
+    opacity: 1;
+
+    transition: transform .4s ease-in-out;
+}
+
+html.is-animating .transition-overlay {
+    transform: translate3d(0, 0, 0);
+}
+
+html.is-rendering .transition-overlay {
+    transform: translate3d(0, calc(var(--overlay-direction, 1) * 100%), 0);
+}
