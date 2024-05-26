@@ -1,7 +1,7 @@
 .button {
     padding: .75em 1.2em;
 
-    border: solid .075em var(--light-dark-blue);
+    border: solid .1em var(--light-dark-blue);
     border-radius: 12em;
 
     text-align: center;
