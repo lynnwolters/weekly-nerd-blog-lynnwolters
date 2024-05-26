@@ -1,0 +1,4 @@
+- 6 maart 2024
+- Nils Binder, front-end developer in Duitsland bij 9elements, 3 units, webdevelopment unit is van Nils, maakt kleine en middel grootte websites voor verschillende doelgroepen, veel verschillende units maar soms werken ze zelfs samen met de cyber security unit
+- Wrapper element om max-width aan content te geveb, items te centeren en padding toe te voegen, oude manier, nieuwe manier, nog nieuwere manier (margin-inline: max(1.5rem, ((100% -75rem)) / 2))
+- Figma, dev mode van px naar dev units als % en rem, fr columns grid, ruimte opvullen of komt onder elkaar, bespreken met designers hoe dit werkt

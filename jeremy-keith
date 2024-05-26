@@ -1,0 +1,62 @@
+- 13 maart 2024
+- Muziekcompositie approach, klassiek, herkennen welke noten, hoe spelen, voor hoelang etc., jazz, geen bladmuziek, schets, een interval, een key om te recorden, zoals programmeren, imperitive programming, de computer stap voor stap vertellen wat die moet doen, declarative programming, niet precies vertellen, de computer bepaald wat die gaat doen en hoe als je het maar genoeg specificeert
+- Declarative vs imperitive
+
+Imperatieve mindset:
+
+Gedetailleerde instructies voor elke stap.
+Specificeert expliciet wat er moet gebeuren en hoe.
+Controlegericht en stapsgewijs.
+
+Declaratieve mindset:
+
+Legt uit wat er moet gebeuren zonder de exacte stappen te specificeren.
+Laat implementatiedetails over aan het systeem.
+Meer abstract en flexibel.
+
+Voorkeur voor HTML/CSS boven JavaScript:
+
+Bevordert het minimaliseren van JavaScript ten gunste van HTML en CSS.
+Benadrukt dat JavaScript alleen moet worden gebruikt voor functionaliteit die niet haalbaar is met HTML/CSS.
+Betere foutafhandeling dankzij de ingebouwde mogelijkheden van HTML en CSS.
+
+Gebruik van CSS voor styling en responsiviteit:
+
+CSS wordt gebruikt voor het definiëren van de visuele stijl van webpagina's.
+Responsieve ontwerpbenadering om aan te passen aan verschillende schermgroottes en apparaten.
+Gebruik van eenheden zoals REM en vw voor dynamische aanpassing aan gebruikersvoorkeuren.
+
+Conversatie met de gebruiker via CSS-eenheden zoals REM en vw:
+
+Stelt ontwerpers in staat om een dialoog aan te gaan met gebruikers via visuele elementen.
+Dynamische aanpassing aan gebruikersvoorkeuren, zoals de grootte van het lettertype.
+
+Gebruik van clamp voor meer controle over styling:
+
+clamp geeft ontwerpers meer controle over de visuele eigenschappen van elementen.
+Hiermee kunnen ontwerpers grenzen instellen voor visuele eigenschappen, zoals minimale en maximale lettergrootte.
+
+Declaratieve ontwerpbenaderingen:
+
+Benaderingen die abstractie en flexibiliteit benadrukken in plaats van specifieke instructies.
+Laten de implementatie over aan het systeem, met een focus op het gewenste resultaat.
+
+Bronnen voor declaratief ontwerpen:
+
+utopia.fyi, een bron die tussen twee typografische schalen interpoleert.
+youtube.com/layoutland, een bron over intrinsiek webontwerp.
+every-layout.dev, een bron voor het definiëren van lay-outs.
+
+Contextuele overwegingen bij het kiezen tussen imperatieve en declaratieve benaderingen:
+
+Afhankelijk van de specifieke behoeften van het project en de voorkeuren van de betrokkenen.
+Omgevingscultuur speelt een rol: strakke controle versus meer flexibiliteit.
+
+Vergelijking met muziekcompositie: klassiek versus jazz:
+
+Klassieke muziekcompositie vereist gedetailleerde notatie en instructies, vergelijkbaar met een imperatieve mindset.
+Jazzmuziekcompositie laat meer ruimte voor improvisatie en interpretatie, vergelijkbaar met een declaratieve mindset.
+Geen duidelijk antwoord op welke benadering beter is, afhankelijk van verschillende factoren:
+
+Kan variëren afhankelijk van de behoeften van het project, de voorkeuren van het team en de aard van de omgeving.
+Keuze hangt af van de mate van controle die nodig is en de gewenste flexibiliteit.

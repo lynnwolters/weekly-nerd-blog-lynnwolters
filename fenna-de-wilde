@@ -1,0 +1,6 @@
+- 14 februari 2024
+- Accessibility, niet goed toegepast in industrie
+- Phantom uitleggen hoe accessible gemaakt, lijstje, focus state voor keyboard gebruikers, aria attributes, toegankelijke carousels, focus guards en esc key... 
+- Niet elke gebruiker gebruikt muis, voor mensen die visueel wel kunnen zien handig feedback te krijgen op welk element je gefocust bent, globale focus state, rode lijn, focus visible pseudo class
+- Aria label, beschrijven tekst aan element geeft, aria controls, informatie geven dat elementen met elkaar in verbinding staan, aria expended, aria lice off screenreader geen update, polite, assertive, screenreader ergens mee bezig gelijk stoppen als screenreader mee bezig is, aria atomic, aria-hidden,l li items vermijden, kondigt items aan, screenreader weet niet wat list item is huidige, controls, previous en next button
+- Juiste lettergrootte, min 16 pix, kleurcontrast, regellengte 50 tot 75 tekens, ch css, max width, reduce motion

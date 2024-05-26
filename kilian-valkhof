@@ -1,0 +1,12 @@
+- 7 februari 2024
+- Kilian Valkhof, webdeveloper 20 jaar lang, polypane browser opgericht voor responsive en accessibility testen
+- Stop using JS for that, choose the least powerful language suitable for a given purpose
+- Zoveel mogelijk HTMl en CSS gebruiken en zo min mogelijk JS, veel developers proberen dingen te bouwen die met HTML en CSS mogelijk zijn
+- Voordelen van zo min mogelijk JS gebruiken is dat HTML veel meer accessibility features heeft en je gebruikt minder packages waardoor je website wordt geoptimaliseerd
+- Once you learn something, you don't learn it again, technically, you don't have to learn new methods. But you should, and you should want to
+- Custom toggle, checkbox HTML element gebruiken, apearance: none erop zetten + pseudo elements zoals ::after, hierdoor zelf customizen en overwriten omdat checkbox zich buiten CSS scope bevindt
+- Datalist, suggesties als user gaat typen, gelimiteerd in customizen maar goed voor de user experience
+- Scroll transitions met CSS scroll-behaviour, vroeger met JQeury, veel regels JS nodig en nu kan het veel korter, mogelijkheid om uit te breiden met JS
+- CSS scroll-snap, carousels laten snappen op een bepaald punt
+- Accordions om content to organiseren, sections in en uit laten klappen
+- Container queries, niet meer op basis van scherm maar van containers
