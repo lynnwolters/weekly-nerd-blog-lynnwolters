@@ -4,8 +4,6 @@
     border: solid .1em var(--light-dark-blue);
     border-radius: 12em;
 
-    text-align: center;
-
     transition: all .2s ease-in-out;
 }
 
